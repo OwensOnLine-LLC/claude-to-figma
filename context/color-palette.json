@@ -1,0 +1,45 @@
+{
+  "brand_identity": {
+    "logo_typography": "Times New Roman",
+    "interface_typography": "Neue Haas Grotesk Text Pro",
+    "primary_brand_blue": "#083B78"
+  },
+  "navigation": {
+    "header_bg": "#FFFFFF",
+    "main_navigation_text": "#083B78"
+  },
+  "typography": {
+    "light_bg": {
+      "main_content_heading": "#2A3133",
+      "subheading_paragraph": "#535455",
+      "text_highlights": "#124BC4"
+    },
+    "dark_bg": {
+      "main_content_heading": "#FFFFFF",
+      "subheading_paragraph": "#FFFFFF",
+      "text_highlights": "#2563EB"
+    }
+  },
+  "action_elements": {
+    "find_products_accent": "#D8272B",
+    "cta_light_bg": "#124BC4",
+    "cta_dark_bg": "#2563EB",
+    "icon_on_dark_bg": "#2563EB",
+    "icon_shade_neutral": "#D4D4D8"
+  },
+  "structural_elements": {
+    "page_background_light": "#F8FAFC",
+    "divider_border_light_bg": "#CBCFD3",
+    "divider_border_dark_bg": "#637488"
+  },
+  "product_category": {
+    "credit_and_finance": "#BCA036",
+    "civil_records": "#4981CE",
+    "criminal_records": "#22316C",
+    "due_diligence_media": "#A2908E",
+    "driving_motor_vehicle": "#009994",
+    "property_assets": "#1E910F",
+    "identity_credentials": "#731B92",
+    "verifications_references": "#F69F3B"
+  }
+}
